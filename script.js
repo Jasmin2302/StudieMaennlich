@@ -83,6 +83,7 @@ const CONDITIONS = [
     feedPosts: [
       {
         username: "lena.travels",
+        profileImg: "Profilbild1NATUR.png",
         img: "IMG_1592.jpeg",
         likes: 18,
         caption: "Sonnenuntergang unter den Bäumen 🌅",
@@ -92,6 +93,7 @@ const CONDITIONS = [
       },
       {
         username: "max.foodie",
+        profileImg: "Profilbild2NATUR.png",
         img: "IMG_1591.jpeg",
         likes: 23,
         caption: "Brunch Goals 🥞🍓",
@@ -101,6 +103,7 @@ const CONDITIONS = [
       },
       {
         username: "julia.nature",
+        profileImg: "Profilbild3NATUR.png",
         img: "IMG_1590.jpeg",
         likes: 40,
         caption: "Mein Lieblingsplatz 🌿💧",
@@ -125,6 +128,7 @@ const CONDITIONS = [
     feedPosts: [
       {
         username: "lena.travels",
+        profileImg: "Profilbild1NATUR.png",
         img: "IMG_1592.jpeg",
         likes: 307,
         caption: "Sonnenuntergang unter den Bäumen 🌅",
@@ -139,6 +143,7 @@ const CONDITIONS = [
       },
       {
         username: "max.foodie",
+        profileImg: "Profilbild2NATUR.png",
         img: "IMG_1591.jpeg",
         likes: 230,
         caption: "Brunch Goals 🥞🍓",
@@ -152,6 +157,7 @@ const CONDITIONS = [
       },
       {
         username: "julia.nature",
+        profileImg: "Profilbild3NATUR.png",
         img: "IMG_1590.jpeg",
         likes: 1300,
         caption: "Mein Lieblingsplatz 🌿💧",
@@ -182,6 +188,7 @@ const CONDITIONS = [
     feedPosts: [
       {
         username: "lena.travels",
+        profileImg: "Profilbild1NATUR.png",
         img: "IMG_1592.jpeg",
         likes: 18,
         caption: "Sonnenuntergang unter den Bäumen 🌅",
@@ -191,6 +198,7 @@ const CONDITIONS = [
       },
       {
         username: "max.foodie",
+        profileImg: "Profilbild2NATUR.png",
         img: "IMG_1591.jpeg",
         likes: 23,
         caption: "Brunch Goals 🥞🍓",
@@ -200,6 +208,7 @@ const CONDITIONS = [
       },
       {
         username: "julia.nature",
+        profileImg: "Profilbild3NATUR.png",
         img: "IMG_1590.jpeg",
         likes: 40,
         caption: "Mein Lieblingsplatz 🌿💧",
@@ -233,6 +242,7 @@ const CONDITIONS = [
     feedPosts: [
       {
         username: "lena.travels",
+        profileImg: "Profilbild1NATUR.png",
         img: "IMG_1592.jpeg",
         likes: 307,
         caption: "Sonnenuntergang unter den Bäumen 🌅",
@@ -247,6 +257,7 @@ const CONDITIONS = [
       },
       {
         username: "max.foodie",
+        profileImg: "Profilbild2NATUR.png",
         img: "IMG_1591.jpeg",
         likes: 230,
         caption: "Brunch Goals 🥞🍓",
@@ -260,6 +271,7 @@ const CONDITIONS = [
       },
       {
         username: "julia.nature",
+        profileImg: "Profilbild3NATUR.png",
         img: "IMG_1590.jpeg",
         likes: 1300,
         caption: "Mein Lieblingsplatz 🌿💧",
@@ -299,6 +311,7 @@ const CONDITIONS = [
     feedPosts: [
       {
         username: "lena.travels",
+        profileImg: "Profilbild1.png",
         img: "idealisierte Frau 2.png",
         likes: 18,
         caption: "gym girly❤️",
@@ -308,6 +321,7 @@ const CONDITIONS = [
       },
       {
         username: "max.foodie",
+        profileImg: "Profilbild2.png",
         img: "idealisierter Mann 2.png",
         likes: 23,
         caption: "Sei dir Selbst am nähesten. #deepthoughts",
@@ -317,6 +331,7 @@ const CONDITIONS = [
       },
       {
         username: "julia.nature",
+        profileImg: "Profilbild3.png",
         img: "Paarbild 2.png",
         likes: 40,
         caption: "Unser Lieblingsplatz",
@@ -341,6 +356,7 @@ const CONDITIONS = [
     feedPosts: [
       {
         username: "lena.travels",
+        profileImg: "Profilbild1.png",
         img: "idealisierte Frau 2.png",
         likes: 307,
         caption: "gym girly❤️",
@@ -355,6 +371,7 @@ const CONDITIONS = [
       },
       {
         username: "max.foodie",
+        profileImg: "Profilbild2.png",
         img: "idealisierter Mann 2.png",
         likes: 230,
         caption: "Sei dir Selbst am nähesten. #deepthoughts",
@@ -368,6 +385,7 @@ const CONDITIONS = [
       },
       {
         username: "julia.nature",
+        profileImg: "Profilbild2.png",
         img: "Paarbild 2.png",
         likes: 1300,
         caption: "Unser Lieblingsplatz",
@@ -398,6 +416,7 @@ const CONDITIONS = [
     feedPosts: [
       {
         username: "lena.travels",
+        profileImg: "Profilbild1.png",
         img: "idealisierte Frau 2.png",
         likes: 18,
         caption: "gym girly❤️",
@@ -407,6 +426,7 @@ const CONDITIONS = [
       },
       {
         username: "max.foodie",
+        profileImg: "Profilbild2.png",
         img: "idealisierter Mann 2.png",
         likes: 23,
         caption: "Sei dir Selbst am nähesten. #deepthoughts",
@@ -416,6 +436,7 @@ const CONDITIONS = [
       },
       {
         username: "julia.nature",
+        profileImg: "Profilbild3.png",
         img: "Paarbild 2.png",
         likes: 40,
         caption: "Unser Lieblingsplatz",
@@ -449,6 +470,7 @@ const CONDITIONS = [
     feedPosts: [
       {
         username: "lena.travels",
+        profileImg: "Profilbild1.png",
         img: "idealisierte Frau 2.png",
         likes: 307,
         caption: "gym girly❤️",
@@ -463,6 +485,7 @@ const CONDITIONS = [
       },
       {
         username: "max.foodie",
+        profileImg: "Profilbild2.png",
         img: "idealisierter Mann 2.png",
         likes: 230,
         caption: "Sei dir Selbst am nähesten. #deepthoughts",
@@ -476,6 +499,7 @@ const CONDITIONS = [
       },
       {
         username: "julia.nature",
+        profileImg: "Profilbild3.png",
         img: "Paarbild 2.png",
         likes: 1300,
         caption: "Unser Lieblingsplatz",
@@ -522,12 +546,16 @@ function applyCondition(cond) {
     const post = posts[index];
     if (!post) return;
 
-    const imgs = post.querySelectorAll('img');
-    const contentImg = imgs[1]; // [0] = Profil, [1] = eigentlicher Post
+   const imgs = post.querySelectorAll('img');
+const profileImg = imgs[0];
+const contentImg = imgs[1];
 
-    if (contentImg) {
-      contentImg.src = cfg.img;
-    }
+if (profileImg && cfg.profileImg) {
+  profileImg.src = cfg.profileImg;
+}
+if (contentImg) {
+  contentImg.src = cfg.img;
+}
 
     const likesDiv = post.querySelector('.likes');
     if (likesDiv) {
@@ -821,3 +849,4 @@ document.addEventListener('DOMContentLoaded', () => {
   const cond = CONDITIONS[idx];
   applyCondition(cond);
 });
+
